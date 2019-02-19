@@ -80,6 +80,14 @@ body{
   font-size: 1.2em;
   color: #FF4007;
 }
+.btn-reset{
+  background: #E8CA06;
+  border: 6px solid #FFB206;
+  border-radius: 5px;
+  font-family: gameFont;
+  font-size: 1.2em;
+  color: #FF4007;
+}
 .btn-reinicio:hover{
   color: #fff;
   cursor: pointer;
@@ -103,4 +111,11 @@ div[class^='col']{
   width: 99.4px;
   height: 96px;
 
+}
+.elemento-igual{
+  width: 99.4px;
+  height: 96px;
+}
+.candy {
+  display: none;
 }
